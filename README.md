@@ -1,6 +1,5 @@
 <h3 align="center">📊 Big Data | 🧮 Machine Learning | 🔬 Deep Learning | 📈 Data Science | 💻 Development</h3>
 
-
 ###
 
 <div align="center">
