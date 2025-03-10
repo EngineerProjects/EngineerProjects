@@ -84,16 +84,17 @@
 # 💫 About Me:
 Data Scientist and Big Data Engineer with expertise in machine learning, deep learning, and reinforcement learning. I blend mathematical rigor with practical implementation to develop innovative AI solutions from conception to production deployment.
 
-> 🔭 I'm currently working on computer vision projects and generative models (GANs)
+> 🔭 I'm passionate about applying machine learning and deep learning to solve real-world problems
 > 
-> 👯 I'm looking to collaborate on research in reinforcement learning and 3D image processing
+> 👯 I'm fascinated by how mathematical algorithms can be leveraged to address complex challenges
 > 
-> 🌱 I'm currently learning TypeScript and React to expand my full-stack capabilities
+> 🌱 I'm particularly interested in deep reinforcement learning applications and their practical implementations
 > 
-> 💡 Ask me about big data architectures, ETL pipelines, and distributed computing
+> 💡 My expertise spans big data architectures, ETL pipelines, and distributed computing systems
 > 
 > ⚡ Fun fact: I find mathematical optimization problems as entertaining as puzzle games
 
+<br><br>
 
 ## 🧠 My Approach
 
