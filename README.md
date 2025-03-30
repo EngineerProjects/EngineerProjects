@@ -108,11 +108,12 @@ I approach data challenges with both analytical precision and creative problem-s
 
 # 📊 GitHub Stats:
 
+![My GitHub activity graph</](https://github-readme-activity-graph.vercel.app/graph?username=EngineerProjects&theme=github-compact&bg_color=000000)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerProjects&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=EngineerProjects&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
 
 <br><br>
 
